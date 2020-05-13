@@ -1,0 +1,7 @@
+{
+  "name": "PureCapacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
